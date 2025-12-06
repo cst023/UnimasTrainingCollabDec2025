@@ -2,3 +2,8 @@ Ng Boon Khai
     - Born: 2025, Jakarta, Indonesia
     - Hobby: Basketball
     - Profession: Student
+
+Izzah Maisarah
+    - Born: 2025, Malacca, Malaysia
+    - Hobby: Art
+    - Profession: Student
